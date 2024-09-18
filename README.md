@@ -1,3 +1,3 @@
 # Lecture
 
-Write some lecture notes.
+Backup some lecture handout and homework.
